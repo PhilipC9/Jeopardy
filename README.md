@@ -1,1 +1,2 @@
-# Jeopardy - nätverkslabb
+# Jeopardy
+Jeopardy game using JeopardyAPI
