@@ -1,2 +1,2 @@
 # Jeopardy
-Jeopardy game using JeopardyAPI
+Jeopardy game using API by jservice.io
